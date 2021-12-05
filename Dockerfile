@@ -1,1 +1,1 @@
-FROM nextcloud:stable-fpm
+FROM nextcloud
